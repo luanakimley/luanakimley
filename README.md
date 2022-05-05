@@ -1,6 +1,6 @@
 ### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-🐣 Hello! My name is Luana Kimley
-👩🏻‍💻 I’m currently a 2nd year undergraduate Computing in Software Development student
+🐣 Hello! My name is Luana Kimley <br />
+👩🏻‍💻 I’m currently a 2nd year undergraduate Computing in Software Development student <br />
 📫 Reach me out on [LinkedIn] (https://www.linkedin.com/in/luana-kimley/)
 
 <!--
