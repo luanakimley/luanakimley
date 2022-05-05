@@ -1,5 +1,7 @@
 ### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+🐣 Hello! My name is Luana Kimley
+👩🏻‍💻 I’m currently a 2nd year undergraduate Computing in Software Development student
+📫 Reach me out on [LinkedIn] (https://www.linkedin.com/in/luana-kimley/)
 
 <!--
 **luanakimley/luanakimley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
