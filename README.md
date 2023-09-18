@@ -1,6 +1,6 @@
 ### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 🐣 Hello, I'm Luana! <br />
-👩🏻‍💻 I’m currently a 3rd year undergraduate Computing in Software Development student <br />
+👩🏻‍💻 I’m currently a final year undergraduate Computing in Software Development student <br />
 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/luana-kimley/)
 
 <!--
