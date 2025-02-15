@@ -1,6 +1,6 @@
 ### Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 🐣 Hello, I'm Luana! <br />
-👩🏻‍💻 Software Developer
+👩🏻‍💻 Software Developer <br />
 📫 Reach me out on [LinkedIn](https://www.linkedin.com/in/luana-kimley/)
 
 <!--
